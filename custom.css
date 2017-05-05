@@ -9,19 +9,25 @@ p {
 }
 
 h1 {
-    color:white;
+    color:black;
     margin:30px;
 }
 
 
-#welcome-page {
+#header {
     background-image: url("images/Walter_Pyramid.jpg");
     
     border:3px solid black;
 }
 
-#contact {
+#footer {
     background-color:white;
     
     border:3px solid black;
+}
+
+#main {
+    border: 3px solid black;
+
+    background-color:white;
 }
