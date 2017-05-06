@@ -13,6 +13,14 @@ h1 {
     margin:30px;
 }
 
+.navbar {
+    min-height: 70px;
+}
+
+.navbar-nav {
+    vertical-align: bottom;
+}
+
 
 #header {
     background-image: url("images/Walter_Pyramid.jpg");
